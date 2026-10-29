@@ -1,0 +1,10 @@
+[project]
+name = "hiss"
+version = "0.1.0"
+description = "A rotating white cube with fluid distortion and chromatic dispersion"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "moderngl>=5.13.0",
+    "pygame-ce>=2.5.8",
+]
